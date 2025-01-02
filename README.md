@@ -15,17 +15,19 @@ Berikut adalah versi yang lebih rapi dan terstruktur untuk digunakan di file REA
 Edit the configuration to match your environment.
 
 #### **Laravel Configuration**
+Double paths for CMD and Git
 
 ```bash
 @REM Configuration for Laravel project
 set PROJECT="C:\path\to\your\project"
+PROJECT="C:\path\to\your\project"
 ```
 
 #### **Run Go Application Path**
 
 ```bash
 @REM Path to the Run Go application
-set RUN="C:\Users\mozart\Documents\Temporary File\Run GO"
+set RUN="C:\path\to\your\Run GO"
 ```
 
 #### **Database and HTTP Server Configuration**
