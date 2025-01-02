@@ -2,7 +2,7 @@
 git
 git
 git
-clear
 source config.bat
 cd "$PROJECT"
+clear
 php artisan serve 
